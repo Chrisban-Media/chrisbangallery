@@ -1,0 +1,67 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e7e3ff;
+  margin: 0;
+  padding: 20px;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+.mandana {
+  background-color: blueviolet;
+  /* width: 100%;
+  height: auto; */
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.intro {
+  font-size: 50px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.mandana-title {
+  font-size: 50px;
+  text-align: center;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.foot {
+  font-size: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    padding: 10px;
+  }
+
+  .intro {
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .image {
+    width: 100%;
+    height: auto;
+  }
+}
