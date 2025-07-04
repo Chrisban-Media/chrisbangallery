@@ -19,12 +19,58 @@ body {
 }
 
 .intro {
+  padding-top: 20px;
   font-size: 50px;
   text-align: center;
   justify-content: center;
   align-items: center;
   margin-bottom: 20px;
 }
+
+.mandora-description {
+  font-size: 20px;
+  text-align: center;
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  color: aliceblue;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.oloma {
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.ecostore-description {
+  padding: 30px;
+  background-color: #29243f;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  color: white;
+}
+.ulo-oma-discription {
+  padding: 30px;
+  background-color: #29243f;
+  border-radius: 10px;
+  font-size: 20px;
+  text-align: center;
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  color: white;
+}
+
 .mandana-title {
   font-size: 50px;
   text-align: center;
